@@ -1,0 +1,2 @@
+class AdminCreateInput {}
+export { AdminCreateInput };

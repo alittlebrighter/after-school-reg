@@ -1,0 +1,2 @@
+class InstructorUpdateInput {}
+export { InstructorUpdateInput };

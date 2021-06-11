@@ -1,0 +1,2 @@
+class AdminUpdateInput {}
+export { AdminUpdateInput };

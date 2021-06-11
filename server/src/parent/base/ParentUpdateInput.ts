@@ -1,0 +1,2 @@
+class ParentUpdateInput {}
+export { ParentUpdateInput };
